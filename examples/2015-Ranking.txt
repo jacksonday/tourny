@@ -1,0 +1,8 @@
+1. Bears 6(6)
+2. Tigers 4(5)
+3. Falcons 3(5)
+4. Red Pandas 3(4)
+5. Snakes 3(3)
+6. Gophers 2(5)
+7. Diamonds 1(5)
+8. Lions 0(3)
