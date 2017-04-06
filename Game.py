@@ -1,7 +1,4 @@
-class Score:
-    def __init__(self, name, points):
-        self.name = name
-        self.points = points
+from Score import Score
 
 class Game:
     def __init__(self, game_string):
